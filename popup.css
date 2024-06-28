@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.container {
+  width: 250px;
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center; /* Center align text and elements */
+}
+
+.logo {
+  width: 100px; /* Adjust the width as needed */
+  margin-bottom: 15px; /* Add space below the logo */
+}
+
+h3 {
+  margin: 0 0 15px 0;
+  font-size: 18px;
+  color: #444;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  background-color: #007bff;
+  border: none;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
+
+button:hover:enabled {
+  background-color: #0056b3;
+}
+
+.status {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #666;
+}
+
