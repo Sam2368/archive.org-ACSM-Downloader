@@ -14,7 +14,7 @@ This Chrome extension allows you to download ACSM files from Archive.org and ren
 ### From GitHub Releases
 
 1. **Download the Latest Release:**
-   - Go to the [Releases page](https://github.com/Sam2368/Archive.org-ACSM-Downloader/releases).
+   - Go to the [Releases page](https://github.com/Sam2368/archive.org-ACSM-Downloader/releases).
    - Download the latest release archive (`.zip` or `.crx`).
 
 2. **Load the Extension in Chrome:**
